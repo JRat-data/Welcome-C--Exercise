@@ -1,4 +1,4 @@
-# Welcome-C--Exercise
+# Welcome-C#-Exercise
 First CodeWars Exercise done in C# after doing a quick tutorial to learn the syntax. 
 
 
